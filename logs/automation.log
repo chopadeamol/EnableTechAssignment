@@ -1,0 +1,85 @@
+2024-08-13 01:11:50 AM: INFO: ......Test Case Started......!
+2024-08-13 01:11:53 AM: INFO: The test is being started here....!
+2024-08-13 01:31:35 AM: INFO: ......Test Case Started......!
+2024-08-13 01:31:37 AM: INFO: The test is being started here....!
+2024-08-13 01:36:37 AM: INFO: ......Test Case Started......!
+2024-08-13 01:36:38 AM: INFO: The test is being started here....!
+2024-08-13 01:37:11 AM: INFO: Exception occurred: Message: no such element: Unable to locate element: {"method":"xpath","selector":"//span[contains(text(),'More ways to verify')]"}
+  (Session info: chrome=127.0.6533.100); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF711339632+30946]
+	(No symbol) [0x00007FF7112EE3C9]
+	(No symbol) [0x00007FF7111E6FDA]
+	(No symbol) [0x00007FF71123822C]
+	(No symbol) [0x00007FF71123850C]
+	(No symbol) [0x00007FF71127DCB7]
+	(No symbol) [0x00007FF71125CAAF]
+	(No symbol) [0x00007FF71127B041]
+	(No symbol) [0x00007FF71125C813]
+	(No symbol) [0x00007FF71122A6E5]
+	(No symbol) [0x00007FF71122B021]
+	GetHandleVerifier [0x00007FF71146F83D+1301229]
+	GetHandleVerifier [0x00007FF71147BDB7+1351783]
+	GetHandleVerifier [0x00007FF711472A03+1313971]
+	GetHandleVerifier [0x00007FF71136DD06+245686]
+	(No symbol) [0x00007FF7112F758F]
+	(No symbol) [0x00007FF7112F3804]
+	(No symbol) [0x00007FF7112F3992]
+	(No symbol) [0x00007FF7112EA3EF]
+	BaseThreadInitThunk [0x00007FFF3ADE257D+29]
+	RtlUserThreadStart [0x00007FFF3C64AF28+40]
+
+2024-08-13 01:44:53 AM: INFO: ......Test Case Started......!
+2024-08-13 01:44:54 AM: INFO: The test is being started here....!
+2024-08-13 01:45:28 AM: INFO: Exception occurred: Message: no such element: Unable to locate element: {"method":"xpath","selector":"//span[contains(text(),'More ways to verify')]"}
+  (Session info: chrome=127.0.6533.100); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF711339632+30946]
+	(No symbol) [0x00007FF7112EE3C9]
+	(No symbol) [0x00007FF7111E6FDA]
+	(No symbol) [0x00007FF71123822C]
+	(No symbol) [0x00007FF71123850C]
+	(No symbol) [0x00007FF71127DCB7]
+	(No symbol) [0x00007FF71125CAAF]
+	(No symbol) [0x00007FF71127B041]
+	(No symbol) [0x00007FF71125C813]
+	(No symbol) [0x00007FF71122A6E5]
+	(No symbol) [0x00007FF71122B021]
+	GetHandleVerifier [0x00007FF71146F83D+1301229]
+	GetHandleVerifier [0x00007FF71147BDB7+1351783]
+	GetHandleVerifier [0x00007FF711472A03+1313971]
+	GetHandleVerifier [0x00007FF71136DD06+245686]
+	(No symbol) [0x00007FF7112F758F]
+	(No symbol) [0x00007FF7112F3804]
+	(No symbol) [0x00007FF7112F3992]
+	(No symbol) [0x00007FF7112EA3EF]
+	BaseThreadInitThunk [0x00007FFF3ADE257D+29]
+	RtlUserThreadStart [0x00007FFF3C64AF28+40]
+
+2024-08-13 01:48:44 AM: INFO: ......Test Case Started......!
+2024-08-13 01:48:46 AM: INFO: The test is being started here....!
+2024-08-13 01:49:19 AM: INFO: Exception occurred: Message: no such element: Unable to locate element: {"method":"xpath","selector":"//span[contains(text(),'More ways to verify')]"}
+  (Session info: chrome=127.0.6533.100); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF711339632+30946]
+	(No symbol) [0x00007FF7112EE3C9]
+	(No symbol) [0x00007FF7111E6FDA]
+	(No symbol) [0x00007FF71123822C]
+	(No symbol) [0x00007FF71123850C]
+	(No symbol) [0x00007FF71127DCB7]
+	(No symbol) [0x00007FF71125CAAF]
+	(No symbol) [0x00007FF71127B041]
+	(No symbol) [0x00007FF71125C813]
+	(No symbol) [0x00007FF71122A6E5]
+	(No symbol) [0x00007FF71122B021]
+	GetHandleVerifier [0x00007FF71146F83D+1301229]
+	GetHandleVerifier [0x00007FF71147BDB7+1351783]
+	GetHandleVerifier [0x00007FF711472A03+1313971]
+	GetHandleVerifier [0x00007FF71136DD06+245686]
+	(No symbol) [0x00007FF7112F758F]
+	(No symbol) [0x00007FF7112F3804]
+	(No symbol) [0x00007FF7112F3992]
+	(No symbol) [0x00007FF7112EA3EF]
+	BaseThreadInitThunk [0x00007FFF3ADE257D+29]
+	RtlUserThreadStart [0x00007FFF3C64AF28+40]
+

@@ -1,0 +1,26 @@
+[32mINFO    [0m root:conftest.py:11 ......Test Case Started......!
+[32mINFO    [0m root:test_login.py:19 The test is being started here....!
+[32mINFO    [0m root:test_login.py:47 Exception occurred: Message: no such element: Unable to locate element: {"method":"xpath","selector":"//span[contains(text(),'More ways to verify')]"}
+  (Session info: chrome=127.0.6533.100); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF711339632+30946]
+	(No symbol) [0x00007FF7112EE3C9]
+	(No symbol) [0x00007FF7111E6FDA]
+	(No symbol) [0x00007FF71123822C]
+	(No symbol) [0x00007FF71123850C]
+	(No symbol) [0x00007FF71127DCB7]
+	(No symbol) [0x00007FF71125CAAF]
+	(No symbol) [0x00007FF71127B041]
+	(No symbol) [0x00007FF71125C813]
+	(No symbol) [0x00007FF71122A6E5]
+	(No symbol) [0x00007FF71122B021]
+	GetHandleVerifier [0x00007FF71146F83D+1301229]
+	GetHandleVerifier [0x00007FF71147BDB7+1351783]
+	GetHandleVerifier [0x00007FF711472A03+1313971]
+	GetHandleVerifier [0x00007FF71136DD06+245686]
+	(No symbol) [0x00007FF7112F758F]
+	(No symbol) [0x00007FF7112F3804]
+	(No symbol) [0x00007FF7112F3992]
+	(No symbol) [0x00007FF7112EA3EF]
+	BaseThreadInitThunk [0x00007FFF3ADE257D+29]
+	RtlUserThreadStart [0x00007FFF3C64AF28+40]
